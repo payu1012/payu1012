@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👩‍💻 Payal Tate
 
-<!--
-**payu1012/payu1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Computer Science (BCS) Student  
+💻 Aspiring Software Developer  
+📍 Pune, Maharashtra, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Hello! I’m Payal Tate, a Computer Science student with a strong interest in programming and web development.  
+I enjoy learning new technologies and building small projects to improve my practical skills.
+
+---
+
+## 🛠️ Skills
+
+- **Programming Languages:**  
+  - Python (Beginner–Intermediate)  
+  - JavaScript (Basic)
+
+- **Web Technologies:**  
+  - HTML  
+  - CSS  
+  - JavaScript  
+
+- **Tools & Software:**  
+  - Visual Studio Code  
+  - Git & GitHub  
+  - Windows OS  
+
+---
+
+## 📚 Education
+
+**Bachelor of Computer Science (BCS)**  
+XYZ College, Pune  
+(2nd Year – Ongoing)
+
+---
+
+## 💡 Projects
+
+### 📌 Student Management System
+- Technologies: HTML, CSS, JavaScript  
+- Features:
+  - Add new student
+  - Search student by ID or name
+  - Display total students
+  - Grade calculation
+
+### 📌 Calculator Web App
+- Technologies: HTML, CSS, JavaScript  
+- Simple and responsive calculator for basic operations
+
+---
+
+## 🎯 Career Goal
+
+To start my career in the IT industry where I can apply my programming knowledge, gain real-world experience, and grow as a software developer.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: tatepayal534@gmail.com  
+- 💼 GitHub: https://github.com/payu1012 
+
+---
+
+⭐ *Thank you for visiting my profile!*
