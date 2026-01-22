@@ -2,7 +2,7 @@
 
 🎓 Bachelor of Computer Science (BCS) Student  
 💻 Aspiring Software Developer  
-📍 Pune, Maharashtra, India  
+📍 Akluj, Maharashtra, India  
 
 ---
 
@@ -16,8 +16,8 @@ I enjoy learning new technologies and building small projects to improve my prac
 ## 🛠️ Skills
 
 - **Programming Languages:**  
-  - Python (Beginner–Intermediate)  
-  - JavaScript (Basic)
+  - Python  
+  - JavaScript 
 
 - **Web Technologies:**  
   - HTML  
@@ -34,8 +34,8 @@ I enjoy learning new technologies and building small projects to improve my prac
 ## 📚 Education
 
 **Bachelor of Computer Science (BCS)**  
-XYZ College, Pune  
-(2nd Year – Ongoing)
+Solapur University
+(3nd Year – Ongoing)
 
 ---
 
